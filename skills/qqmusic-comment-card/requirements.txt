@@ -1,0 +1,3 @@
+# 这些由 scripts/install_deps.py 在征得同意后装进技能目录下的 .deps/，不需要手动 pip install
+Pillow>=9.2
+qqmusic-api-python==0.7.3

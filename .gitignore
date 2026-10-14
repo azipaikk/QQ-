@@ -1,0 +1,11 @@
+# 第三方库装在这里（含 GPL 许可的 qqmusic-api-python），不要提交
+.deps/
+
+# 生成的成品和中间数据：含专辑封面和他人评论，属于第三方内容，不要提交
+qqmusic_cards/
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.pyc
